@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_referring_group" label="Referring group" language="en" table="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_referring_group</element>
+            <help/>
+            <hint/>
+            <label>Referring group</label>
+            <language>en</language>
+            <name>x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-09 14:07:19</sys_created_on>
+            <sys_id>892b966083a0321096ddc4d0deaad326</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Referring group</sys_name>
+            <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+            <sys_update_name>sys_documentation_x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application_x_referring_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-09 14:07:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

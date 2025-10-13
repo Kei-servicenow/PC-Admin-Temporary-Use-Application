@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Global</application>
+        <code/>
+        <commented_message/>
+        <key>pc_sec_002</key>
+        <language>en</language>
+        <message>Approver</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 13:22:22</sys_created_on>
+        <sys_id>916adbf08360321096ddc4d0deaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pc_sec_002</sys_name>
+        <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+        <sys_update_name>sys_ui_message_916adbf08360321096ddc4d0deaad3da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 13:22:22</sys_updated_on>
+    </sys_ui_message>
+</record_update>
