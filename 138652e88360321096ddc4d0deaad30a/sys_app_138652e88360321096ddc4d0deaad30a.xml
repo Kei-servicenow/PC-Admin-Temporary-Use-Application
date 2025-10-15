@@ -22,7 +22,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_1062595_pc_adm_0</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>PC管理者権限一時利用申請</short_description>
         <source>x_1062595_pc_adm_0</source>
         <store_correlation_id/>
         <store_url/>
@@ -32,7 +32,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-09 13:47:16</sys_created_on>
         <sys_id>138652e88360321096ddc4d0deaad30a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-10-09 13:47:16</sys_updated_on>
         <template/>
