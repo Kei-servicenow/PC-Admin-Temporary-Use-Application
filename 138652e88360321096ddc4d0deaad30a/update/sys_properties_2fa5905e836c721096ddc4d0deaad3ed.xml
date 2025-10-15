@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>PC Admin Authority Temporary Use Application activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application_activity.fields</name>
+        <read_roles/>
+        <suffix>x_1062595_pc_adm_0</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 14:53:35</sys_created_on>
+        <sys_id>2fa5905e836c721096ddc4d0deaad3ed</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.ui.x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application_activity.fields</sys_name>
+        <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+        <sys_update_name>sys_properties_2fa5905e836c721096ddc4d0deaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 14:56:05</sys_updated_on>
+        <type>string</type>
+        <value>x_applicant,sys_created_on,sys_created_by,x_stage,sys_updated_on,sys_updated_by,x_authority_addition_date,x_authority_deletation_date,x_information_system_dept_remarks,x_comments</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=2fa5905e836c721096ddc4d0deaad3ed"/>
+</record_update>
