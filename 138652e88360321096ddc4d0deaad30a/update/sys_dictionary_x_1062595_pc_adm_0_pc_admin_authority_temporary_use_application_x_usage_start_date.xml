@@ -5,7 +5,7 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Usage start date</column_label>
@@ -53,7 +53,7 @@
         <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
         <sys_update_name>sys_dictionary_x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application_x_usage_start_date</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-09 14:07:23</sys_updated_on>
+        <sys_updated_on>2025-10-17 18:06:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

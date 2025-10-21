@@ -39,8 +39,8 @@
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual>first_nameSTARTSWITHPC Approver^EQ</reference_qual>
-        <reference_qual_condition table="sys_user">first_nameSTARTSWITHPC Approver^EQ<item endquery="false" field="first_name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="PC Approver"/>
+        <reference_qual>roles=x_1062595_pc_adm_0.approver^EQ</reference_qual>
+        <reference_qual_condition table="sys_user">roles=x_1062595_pc_adm_0.approver^EQ<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_1062595_pc_adm_0.approver"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </reference_qual_condition>
         <reference_type/>
@@ -55,7 +55,7 @@
         <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
         <sys_update_name>sys_dictionary_x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application_x_approver</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-11 14:37:52</sys_updated_on>
+        <sys_updated_on>2025-10-19 13:18:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
