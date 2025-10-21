@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1062595_pc_adm_0.user" name="x_1062595_pc_adm_0.user">278652e88360321096ddc4d0deaad35a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 13:47:17</sys_created_on>
+        <sys_id>ab8652e88360321096ddc4d0deaad35b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>278652e88360321096ddc4d0deaad35a</sys_name>
+        <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ab8652e88360321096ddc4d0deaad35b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 13:47:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

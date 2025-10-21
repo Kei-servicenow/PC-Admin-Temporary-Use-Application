@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="438d5a2483a0321096ddc4d0deaad360" sys_domain="global" table="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 14:19:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd8747c4837c721096ddc4d0deaad380</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" sys_domain="global" view="Default view">438d5a2483a0321096ddc4d0deaad360</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" sys_domain="global" view="Default view">3d8707c4837c721096ddc4d0deaad3e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 14:20:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-09 14:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c38d5a2483a0321096ddc4d0deaad395</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" sys_domain="global" view="Default view">438d5a2483a0321096ddc4d0deaad360</sys_ui_form>
+            <sys_ui_section caption="PC Admin Authority-Use  Application" display_value="PC Admin Authority-Use  Application" name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" sys_domain="global" view="Default view">c2a75a288360321096ddc4d0deaad374</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 14:20:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-10 13:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bba893308360321096ddc4d0deaad337</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" sys_domain="global" view="Default view">438d5a2483a0321096ddc4d0deaad360</sys_ui_form>
+            <sys_ui_section caption="Information System Dept." display_value="Information System Dept." name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" sys_domain="global" view="Default view">3ba893308360321096ddc4d0deaad335</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 14:20:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-09 14:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>438d5a2483a0321096ddc4d0deaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_438d5a2483a0321096ddc4d0deaad360</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-09 14:17:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

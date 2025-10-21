@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>x_authority_addition_date</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-12 12:42:42</sys_created_on>
+        <sys_id>0754e5298364f21096ddc4d0deaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_authority_addition_date</sys_name>
+        <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0754e5298364f21096ddc4d0deaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-12 12:42:42</sys_updated_on>
+        <table>x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application</table>
+        <ui_policy display_value="「情報システム部」セクションの全項目を表示する">271461298364f21096ddc4d0deaad381</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=0754e5298364f21096ddc4d0deaad327"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</application>
+        <file_path/>
+        <instance_id>b87c0890dbb2311002d91729139619dc</instance_id>
+        <instance_name>dev223727</instance_name>
+        <name>sys_ui_policy_action_0754e5298364f21096ddc4d0deaad327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>x_authority_addition_date</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-12 12:42:42</sys_created_on><sys_id>0754e5298364f21096ddc4d0deaad327</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_authority_addition_date</sys_name><sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package><sys_policy/><sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope><sys_update_name>sys_ui_policy_action_0754e5298364f21096ddc4d0deaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-12 12:42:42</sys_updated_on><table>x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application</table><ui_policy display_value="「情報システム部」セクションの全項目を表示する">271461298364f21096ddc4d0deaad381</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=0754e5298364f21096ddc4d0deaad327"/></record_update>]]></payload>
+        <payload_hash>-686044508</payload_hash>
+        <record_name>x_authority_addition_date</record_name>
+        <reverted_from/>
+        <source>1b8652e88360321096ddc4d0deaad30e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-12 12:42:42</sys_created_on>
+        <sys_id>be84e9298364f21096ddc4d0deaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199d871d4c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-12 12:42:42</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>3684e929b964f2101e997de621fb4b72</update_guid>
+        <update_guid_history>3684e929b964f2101e997de621fb4b72:-686044508</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 13:10:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>04ccb3e2f81e46d4821750a238449524</sys_id>
+        <sys_metadata>0754e5298364f21096ddc4d0deaad327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_authority_addition_date</sys_name>
+        <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+        <sys_scope_delete display_value="">27006fb6dc1244b0a978a1a20f2b1d10</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_0754e5298364f21096ddc4d0deaad327</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_0754e5298364f21096ddc4d0deaad327">be84e9298364f21096ddc4d0deaad372</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 13:10:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

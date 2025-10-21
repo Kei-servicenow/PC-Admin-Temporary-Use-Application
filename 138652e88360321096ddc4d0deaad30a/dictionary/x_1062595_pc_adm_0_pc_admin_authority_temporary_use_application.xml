@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="e9a71a2c8360321096ddc4d0deaad330" label="PC Admin Authority Temporary Use Application" max_length="40" name="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application" type="collection">
+        <element label="Usage start date" max_length="40" name="x_usage_start_date" type="glide_date"/>
+        <element label="Reason for application" max_length="4000" name="x_reason_for_application" type="string"/>
+        <element label="Comments" max_length="40" name="x_comments" type="journal"/>
+        <element label="Referring person" max_length="32" name="x_referring_person" reference="sys_user" type="reference"/>
+        <element label="Usage end date" max_length="255" name="x_usage_end_date" type="glide_date"/>
+        <element label="Referring group" max_length="32" name="x_referring_group" reference="sys_user_group" reference_qual="name=PC Referrer Group^EQ" reference_qual_condition="name=PC Referrer Group^EQ" type="reference"/>
+        <element label="Approver" mandatory="true" max_length="32" name="x_approver" reference="sys_user" reference_qual="roles=x_1062595_pc_adm_0.approver^EQ" reference_qual_condition="roles=x_1062595_pc_adm_0.approver^EQ" type="reference"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="5fa537b883e0321096ddc4d0deaad3ff" label="Applicant" max_length="32" name="x_applicant" read_only="true" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Information System Dept. remarks" max_length="4000" name="x_information_system_dept_remarks" type="string"/>
+        <element label="PC name" mandatory="true" max_length="100" name="x_pcname" type="string"/>
+        <element choice="3" default="1" label="Stage" max_length="40" name="x_stage" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Application reception desk" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Worker procedure" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Pull back" sequence="9" value="10"/>
+                <element inactive_on_update="false" label="ISC confirm" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Complete" sequence="6" value="7"/>
+                <element inactive_on_update="false" label="Turn down" sequence="10" value="11"/>
+                <element inactive_on_update="false" label="Rejected" sequence="7" value="8"/>
+                <element inactive_on_update="false" label="Creating" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Waiting for approval" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Waiting for IS work approval" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Send back" sequence="8" value="9"/>
+            </choice>
+        </element>
+        <element label="Authority deletation date" max_length="40" name="x_authority_deletation_date" type="glide_date"/>
+        <element label="User" mandatory="true" max_length="32" name="x_user" reference="sys_user" type="reference"/>
+        <element label="Authority addition date" max_length="40" name="x_authority_addition_date" type="glide_date"/>
+        <index name="index">
+            <element name="x_applicant"/>
+        </index>
+        <index name="index2">
+            <element name="x_approver"/>
+        </index>
+        <index name="index3">
+            <element name="x_referring_group"/>
+        </index>
+        <index name="index4">
+            <element name="x_referring_person"/>
+        </index>
+        <index name="index5">
+            <element name="x_user"/>
+        </index>
+    </element>
+</database>

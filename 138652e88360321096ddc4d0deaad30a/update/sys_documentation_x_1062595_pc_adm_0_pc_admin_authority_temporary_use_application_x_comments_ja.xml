@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_comments" label="コメント" language="ja" table="x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_comments</element>
+            <help/>
+            <hint/>
+            <label>コメント</label>
+            <language>ja</language>
+            <name>x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-10 15:11:18</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>コメント</sys_name>
+            <sys_package display_value="PC Admin Authority Temporary Use Application" source="x_1062595_pc_adm_0">138652e88360321096ddc4d0deaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PC Admin Authority Temporary Use Application">138652e88360321096ddc4d0deaad30a</sys_scope>
+            <sys_update_name>sys_documentation_x_1062595_pc_adm_0_pc_admin_authority_temporary_use_application_x_comments_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-10 15:11:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
